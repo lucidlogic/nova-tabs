@@ -22,7 +22,7 @@ class Tabs extends Panel
     /**
      * NovaRequest
      */
-    protected NovaRequest $request;
+    public ?NovaRequest $request = null;
 
     /**
      * @var mixed
