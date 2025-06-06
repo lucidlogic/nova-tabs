@@ -16,7 +16,7 @@
     "require": {
         "php": "^7.4|^8",
         "laravel/nova": "^5.7",
-        "nova-kit/nova-packages-tool": "^1.3",
+        "nova-kit/nova-packages-tool": "dev-2.x",
         "ext-json": "*"
     },
     "require-dev": {
